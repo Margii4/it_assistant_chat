@@ -2,7 +2,7 @@
 
 A fast, practical IT support assistant built with Streamlit and OpenAI GPT (gpt-4o/gpt-3.5-turbo). The bot provides clear, concise troubleshooting steps for any IT problem—just like a real specialist.
 
-[![Streamlit App]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-link.streamlit.app](https://itassistantchat-ueip5ustsns2um37kpyrjm.streamlit.app)) 
+[![Streamlit App](https://itassistantchat-ueip5ustsns2um37kpyrjm.streamlit.app)
 
 ---
 
@@ -43,8 +43,8 @@ A fast, practical IT support assistant built with Streamlit and OpenAI GPT (gpt-
 
    🌐 Online Demo
 
-Try it live: [[Streamlit Cloud App](https://your-streamlit-link.streamlit.app](https://itassistantchat-ueip5ustsns2um37kpyrjm.streamlit.app))  
-
+Try it live: [[Streamlit Cloud App]
+(https://itassistantchat-ueip5ustsns2um37kpyrjm.streamlit.app)
 
 ---
 
